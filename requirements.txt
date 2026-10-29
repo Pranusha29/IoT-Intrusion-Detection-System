@@ -1,0 +1,10 @@
+tensorflow==2.21.0
+keras==3.15.1
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn
+matplotlib
+shap==0.52.0
+joblib
+jupyter
+Flask==3.1.2

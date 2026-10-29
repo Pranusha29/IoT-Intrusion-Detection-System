@@ -1,0 +1,4 @@
+Model,Validation Accuracy (%),Validation Macro F1,Validation Weighted F1
+CNN-LSTM-Attention,77.48,0.5619,0.7531
+XGBoost,78.66,0.6023,0.7743
+XGBoost without Protocol Type,78.66,0.6013,0.7742

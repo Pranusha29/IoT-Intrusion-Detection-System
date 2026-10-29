@@ -1,0 +1,40 @@
+Feature,SHAP_Value
+fin_flag_number,0.07318636612953973
+fin_count,0.053176319892669535
+psh_flag_number,0.024392209599535763
+HTTPS,0.016236175810233046
+Tot sum,0.011046183991702164
+IPv,0.00999341462128046
+syn_count,0.0042847632818683494
+rst_count,0.0004698442207327402
+syn_flag_number,0.0
+rst_flag_number,0.0
+Time_To_Live,0.0
+Header_Length,0.0
+Protocol Type,0.0
+Rate,0.0
+cwr_flag_number,0.0
+ack_count,0.0
+HTTP,0.0
+DNS,0.0
+Telnet,0.0
+SMTP,0.0
+SSH,0.0
+ack_flag_number,0.0
+ece_flag_number,0.0
+TCP,0.0
+IRC,0.0
+UDP,0.0
+DHCP,0.0
+ICMP,0.0
+ARP,0.0
+IGMP,0.0
+LLC,0.0
+Min,0.0
+Max,0.0
+AVG,0.0
+Std,0.0
+Tot size,0.0
+IAT,0.0
+Number,0.0
+Variance,0.0

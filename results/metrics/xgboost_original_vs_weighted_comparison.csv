@@ -1,0 +1,9 @@
+Category,Original Recall,Weighted Recall,Original F1,Weighted F1
+BENIGN,0.859,0.858,0.828,0.832
+Brute Force,0.25,0.208,0.375,0.323
+DDoS,0.965,0.847,0.912,0.883
+DoS,0.366,0.697,0.485,0.597
+Mirai,0.997,0.996,0.998,0.998
+Recon,0.735,0.742,0.743,0.748
+Spoofing,0.85,0.855,0.887,0.882
+Web-based,0.071,0.095,0.12,0.157

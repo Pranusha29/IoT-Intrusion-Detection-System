@@ -1,0 +1,40 @@
+feature_index,feature_name
+0,Header_Length
+1,Protocol Type
+2,Time_To_Live
+3,Rate
+4,fin_flag_number
+5,syn_flag_number
+6,rst_flag_number
+7,psh_flag_number
+8,ack_flag_number
+9,ece_flag_number
+10,cwr_flag_number
+11,ack_count
+12,syn_count
+13,fin_count
+14,rst_count
+15,HTTP
+16,HTTPS
+17,DNS
+18,Telnet
+19,SMTP
+20,SSH
+21,IRC
+22,TCP
+23,UDP
+24,DHCP
+25,ARP
+26,ICMP
+27,IGMP
+28,IPv
+29,LLC
+30,Tot sum
+31,Min
+32,Max
+33,AVG
+34,Std
+35,Tot size
+36,IAT
+37,Number
+38,Variance

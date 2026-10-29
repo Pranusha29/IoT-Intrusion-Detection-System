@@ -1,0 +1,24 @@
+__pycache__/
+venv/
+.venv/
+node_modules/
+.env
+
+# Large datasets and generated arrays
+data/
+*.npy
+*.zip
+
+# Large trained model files
+models/*.keras
+models/*.h5
+models/*.pkl
+
+data/
+*.npy
+*.zip
+models/*.keras
+models/*.h5
+models/*.pkl
+
+.vscode/

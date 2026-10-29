@@ -1,0 +1,3 @@
+Model,Split,Accuracy,Macro_F1,Weighted_F1
+XGBoost - 8 Broad Categories,Validation,0.8562,0.6686,0.838
+XGBoost - 8 Broad Categories,Test,0.8584404371661414,0.6723682242919212,0.8409671955328605

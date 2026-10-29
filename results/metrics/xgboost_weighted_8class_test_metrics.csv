@@ -1,0 +1,2 @@
+Model,Test Accuracy,Macro F1,Weighted F1,Macro Precision
+Weighted XGBoost (8-class),0.8311351017457165,0.6906989042578345,0.8393417816200887,0.789120968329114

@@ -1,0 +1,5 @@
+Model,Validation Accuracy,Macro F1,Weighted F1
+Without Number - Unweighted,0.8561,0.6718,0.8367
+Without Number - Fully Balanced,0.7549,0.6687,0.7793
+Without Number - Moderate Weights,0.8252,0.69,0.8345
+Without Number - Light Weights,0.8493,0.6953,0.8457
